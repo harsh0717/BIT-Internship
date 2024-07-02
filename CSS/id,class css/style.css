@@ -1,0 +1,23 @@
+.om{
+    text-align: center;
+    color: burlywood;
+}
+.om:hover{
+    color: red;
+    background-color: yellow;
+}
+
+#omm{
+    color: chocolate;
+    background-color: rgb(128, 0, 255);
+}
+
+#omm:hover{
+    color: red;
+    background-color: black;
+}
+
+body:hover{
+    color: red;
+    background-color: orangered;
+}
